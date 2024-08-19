@@ -56,3 +56,49 @@ Follow these steps to install the game on your system:
 3. Select the folder that you cloned this repository
 
 This project is made with unity version 2022.3.37f1
+
+
+## 📁 Assets
+The following assets were used in this project. Please refer to the provided links for more details on their usage.
+
+Special thanks to the creators of the assets used in this project.
+
+**Fonts**: 
+
+https://ninjikin.itch.io/font-antiquity-script
+
+**Background**: 
+
+https://cainos.itch.io/pixel-art-top-down-basic
+
+**Character**: 
+
+https://penzilla.itch.io/hooded-protagonist?download
+
+**Enemies**: 
+
+https://holder-anibat.itch.io/holders-animated-battlers-free-enemies-pack-1
+
+**Game Music & SFX**: 
+
+https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack
+
+https://crowshade.itch.io/horror-music-pack
+
+https://davidkbd.itch.io/interstellar-edm-metal-music-pack
+
+**UI**:
+
+https://vati27.itch.io/healt-bar
+
+https://kicked-in-teeth.itch.io/button-ui
+
+https://kenney-assets.itch.io/cursor-pack
+
+--- 
+
+<p align="center">
+   ⭐
+  <strong><a href="https://github.com/kvnnh">Visit My GitHub Profile</a></strong>
+   ⭐
+</p>
