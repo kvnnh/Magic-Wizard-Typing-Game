@@ -22,6 +22,7 @@
    
 4. Once the game start, you will see monsters approaching from different directions. Type the monster's name quickly and press `Enter` to defeat it.
    For example, there's a monster named **Cactuar** approaching! **Type its name and smash enter to defeat it**.
+
    **Note: All monsters named Cactuar that appear on the screen will be defeated.**
    
    <img src="\Assets\GameScreenshots\tutorial1retake.png" alt="ingame-screenshot" width="400"/>
