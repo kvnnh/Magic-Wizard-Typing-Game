@@ -11,22 +11,31 @@
 ## 🕹️ How to Play
 1. **Start the game** and you will see the main menu
 
+<p>
    <img src="\Assets\GameScreenshots\mainmenu.png" alt="mainMenu" width="200"/>
+</p>
+
 2. Click **Play**. There is 4 kind of difficulties. (Recommended to choose easy mode first)
 
+<p>
    <img src="\Assets\GameScreenshots\difficulty.png" alt="difficulty" width="200"/>
+</p>
 
 3. This is the monster you will face, **remember their names**!
 
+<p>
    <img src="\Assets\GameScreenshots\monsters1.png" alt="monster-list-name" width="200"/>
-   
+</p>
+  
 4. Once the game start, you will see monsters approaching from different directions. Type the monster's name quickly and press `Enter` to defeat it.
    For example, there's a monster named **Cactuar** approaching! **Type its name and smash enter to defeat it**.
 
    **Note: All monsters named Cactuar that appear on the screen will be defeated.**
-   
+
+ <p> 
    <img src="\Assets\GameScreenshots\tutorial1retake.png" alt="ingame-screenshot" width="200"/>
    <img src="\Assets\GameScreenshots\tutorial2retake.png" alt="ingame-screenshot" width="200"/>
+</p>
 
 6. Good luck, wizard! Survive until the end!
    
